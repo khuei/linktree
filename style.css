@@ -80,18 +80,17 @@ hr {
 }
 
 .links .links_second {
+  border-bottom: 3px solid #cbc3e3;
+  box-shadow: inset 0 -4px 0 #cbc3e3;
+  border: 2px solid #cbc3e3;
+  background-color: #cbc3e3;
+}
+
+.links .links_third {
   border-bottom: 3px solid #ffa093;
   box-shadow: inset 0 -4px 0 #ffa093;
   border: 2px solid #ffa093;
   background-color: #ffa093;
-}
-
-.links .links_third {
-  border-bottom: 3px solid #bedde8;
-  box-shadow: inset 0 -4px 0 #bedde8;
-
-  border: 2px solid #bedde8;
-  background-color: #bedde8;
 }
 
 .links .links_fourth {

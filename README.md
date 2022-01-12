@@ -1,3 +1,3 @@
-# linktr
+# linktree
 
-> compilation of links
+> compilation of URLs
